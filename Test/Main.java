@@ -5,5 +5,6 @@ public class Main{
     {
         System.out.println("Hi, this is to test Jenkins!!");
         System.out.println(new Date());
+        System.out.println("Committed the changes to GitHub");
     }
 }
